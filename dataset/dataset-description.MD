@@ -6,7 +6,8 @@
 
 *Table 1: Number of software packages used in the machine learning application.*
 
-This dataset is a raw analysis of the package-analysis tool. 
+This dataset is a raw analysis of the package-analysis tool.
+
 Benign dataset: we get the top 1000 downloaded NPM packages
 Malicious dataset: we get our sources from Vulert, Vulners, and OSV. 
 
